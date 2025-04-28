@@ -27,3 +27,6 @@
 - 📥 [LinkedIn](https://linkedin.com/in/gayoung-dan)
 - 📧 Email: gayoung.dan.data@gmail.com
 
+## 📈 GitHub Activity
+
+![Metrics](https://github.com/Gyoungd/Gyoungd/blob/main/metrics.plugin.isocalendar.svg)
