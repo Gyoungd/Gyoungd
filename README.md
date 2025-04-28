@@ -26,3 +26,12 @@
 ### 📪 Let's Connect
 - 📥 [LinkedIn](https://linkedin.com/in/gayoung-dan)
 - 📧 Email: gayoung.dan.data@gmail.com
+
+### Metrics
+name: Half-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
