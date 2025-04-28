@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**Gyoungd/Gyoungd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋🏻 Hi, I'm Gayoung Dan!
 
-Here are some ideas to get you started:
+### 👩🏻‍💻 A passionate Data Engineer/Analyst based in Australia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Master of Data Science at Monash University
+- 🔥 Passionate about Data Science, Data Engineering, and Cloud Architecture
+- 🌏 Based in Australia 🇦🇺 / Korea 🇰🇷
+- 🔎 Always exploring how data shapes the future of business decisions
+
+### 🛠️ Tech Stack
+####  Languages & Tools
+- **Programming Languages:** Python (Pandas, PySpark), R, SQL, Postgresql
+- **Data Engineering:** ETL, Data Warehousing, Airflow (learning)
+- **Visualisation:** Tableau, Power BI(learning)
+- **Machine Learning:** Scikit-learn, XGBoost
+- **Other:** Git, Docker
+
+#### Certifications
+- AWS Certified Cloud Practitioner (in progress)
+- AWS Developer Associate (planned)
+
+#### Competition
+- 📈 FIT5149 Stock Volatility Prediction Kaggle Challenge 2nd Place
+
+### 📪 Let's Connect
+- 📥 [LinkedIn] (https://linkedin.com/in/gayoung-dan)
+- 📧 Email: gayoung.dan.data@gmail.com
