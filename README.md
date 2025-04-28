@@ -27,11 +27,3 @@
 - 📥 [LinkedIn](https://linkedin.com/in/gayoung-dan)
 - 📧 Email: gayoung.dan.data@gmail.com
 
-### Metrics
-name: Half-year calendar
-uses: Gayoungd/metrics@latest
-with:
-  filename: metrics.plugin.isocalendar.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: ""
-  plugin_isocalendar: yes
