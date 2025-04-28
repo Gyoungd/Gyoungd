@@ -1,5 +1,5 @@
 
-## 👋🏻 Hi, I'm Gayoung Dan!
+## 👋🏻 Hello, I'm Gayoung Dan!
 
 ### 👩🏻‍💻 A passionate Data Engineer/Analyst based in Australia
 
