@@ -24,5 +24,5 @@
 - 📈 FIT5149 Stock Volatility Prediction Kaggle Challenge 2nd Place
 
 ### 📪 Let's Connect
-- 📥 [LinkedIn] (https://linkedin.com/in/gayoung-dan)
+- 📥 [LinkedIn](https://linkedin.com/in/gayoung-dan)
 - 📧 Email: gayoung.dan.data@gmail.com
