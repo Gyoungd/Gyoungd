@@ -8,7 +8,7 @@
 - 🌏 Based in Australia 🇦🇺 / Korea 🇰🇷
 - 🔎 Always exploring how data shapes the future of business decisions
 
-### Projects
+### 💻 Projects
 - **Digital Nomad Destination Visualisation Dashboard:** [Link](https://github.com/Gyoungd/digital-nomad-visualisation-2025)
 
 ### 🛠️ Tech Stack
