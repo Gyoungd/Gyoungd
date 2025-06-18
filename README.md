@@ -8,6 +8,9 @@
 - 🌏 Based in Australia 🇦🇺 / Korea 🇰🇷
 - 🔎 Always exploring how data shapes the future of business decisions
 
+### Projects
+- **Digital Nomad Destination Dashboard:** [Link](https://github.com/Gyoungd/digital-nomad-visualisation-2025)
+
 ### 🛠️ Tech Stack
 ####  Languages & Tools
 - **Programming Languages:** Python (Pandas, PySpark), R, SQL, Postgresql
