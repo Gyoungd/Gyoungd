@@ -1,7 +1,7 @@
 
 ## 👋🏻 Hello, I'm Gayoung Dan!
 
-### 👩🏻‍💻 A passionate Data Engineer & Analyst based in Australia
+### 👩🏻‍💻 A passionate Data Analyst & Engineer based in Australia
 
 - 🎓 Master of Data Science at Monash University
 - 🔥 Passionate about Data Science, Data Engineering, and Cloud Architecture
