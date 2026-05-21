@@ -37,12 +37,10 @@ FIT5149 Stock Volatility Prediction — 2nd place, Kaggle private leaderboard (M
 
 ## Education
 
-**Master of Data Science** — Monash University (Dec 2025)  
-WAM 77.1/100 | Distinctions in: Database Design, Data Visualisation, Data Wrangling, Foundations of Data Science, Applied Mathematics for ML  
+**Master of Data Science** — Monash University (Dec 2025)  | Distinctions in: Database Design, Data Visualisation, Data Wrangling, Foundations of Data Science, Applied Mathematics for ML  
 Coursework: Advanced Database Technology, Data Wrangling, Data Visualisation, Data Processing for Big Data, Applied Data Analysis
 
 **Bachelor of Arts (Global Business & Technology + Polish)** — Hankuk University of Foreign Studies (2016–2021)  
-GPA 89.1/100
 
 ---
 
