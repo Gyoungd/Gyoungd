@@ -3,7 +3,7 @@
 **Data Analyst | Python · R · SQL | Data Processing & Quality Assurance**
 
 Master of Data Science, Monash University (completed December 2025). Based in Melbourne, Australia.  
-Open to data analyst, data processing, and data engineering roles.
+Open to data analyst, data processing, and data engineering roles in Australia and Korea.
 
 Hands-on with large and complex datasets across SQL/PostGIS, PySpark, R, and Python.  
 Focused on data wrangling, validation, and repeatable processing workflows.
